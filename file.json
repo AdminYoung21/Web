@@ -1,0 +1,44 @@
+{
+   "server": "127.0.0.1",
+   "port": "5000",
+   "sort": "bird"
+}
+# Данные на сервере
+[
+  {
+    "animal": "platypus",
+    "sort": "mammal",
+    "habitat": "Australia",
+    "meal": [
+      "worm"
+    ]
+  },
+  {
+    "animal": "penguin",
+    "sort": "bird",
+    "habitat": "Antarctica",
+    "meal": [
+      "fish",
+      "plankton"
+    ]
+  },
+  {
+    "animal": "eagle",
+    "sort": "bird",
+    "habitat": "Australia",
+    "meal": [
+      "mouse",
+      "rabbit"
+    ]
+  },
+  {
+    "animal": "straus",
+    "sort": "bird",
+    "habitat": "Africa",
+    "meal": [
+      "insect",
+      "grain",
+      "worm"
+    ]
+  }
+]
