@@ -1,0 +1,11 @@
+{% extends 'menu.html' %}
+
+{% block title %}
+    Home
+{% endblock %}
+
+{% block body %}
+    {% if current_user.is_authenticated %}
+    {% else %}
+    {% endif %}
+{% endblock %}
